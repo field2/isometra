@@ -1,6 +1,9 @@
 {
-.appVersion = "3516";
+.appVersion = "3532";
 .formatVersion = 3;
+DisplayStrings = (
+paoe
+);
 customParameters = (
 {
 name = fsType;
@@ -9722,7 +9725,7 @@ color = 4;
 glyphname = a;
 kernLeft = a;
 kernRight = n;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-03 15:42:43 +0000";
 layers = (
 {
 anchors = (
@@ -11373,7 +11376,7 @@ color = 4;
 glyphname = d;
 kernLeft = o;
 kernRight = l;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-03 15:44:39 +0000";
 layers = (
 {
 anchors = (
@@ -11819,7 +11822,7 @@ color = 4;
 glyphname = e;
 kernLeft = o;
 kernRight = e;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-03 15:45:22 +0000";
 layers = (
 {
 anchors = (
@@ -15298,7 +15301,7 @@ color = 4;
 glyphname = o;
 kernLeft = o;
 kernRight = o;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-03 15:45:17 +0000";
 layers = (
 {
 anchors = (
@@ -27314,14 +27317,14 @@ t = -85;
 "@MMK_R_o" = -90;
 "@MMK_R_v" = -90;
 "@MMK_R_x" = -110;
-a = -110;
-d = -110;
-e = -110;
+a = 0;
+d = 0;
+e = -10;
 h = -30;
 j = -60;
 l = -40;
 n = -20;
-o = -100;
+o = -10;
 q = -110;
 t = -90;
 u = -40;
