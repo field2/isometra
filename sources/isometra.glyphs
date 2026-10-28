@@ -2,7 +2,187 @@
 .appVersion = "3532";
 .formatVersion = 3;
 DisplayStrings = (
-paoe
+"22px
+
+aabacadaeafagahaiajakalamanaoapaqarasatauavawaxayaza
+babbcbdbebfbgbhbibjbkblbmbnbobpbqbrbsbtbubvbwbxbybzb
+cacbccdcecfcgchcicjckclcmcncocpcqcrcsctcucvcwcxcyczc
+dadbdcddedfdgdhdidjdkdldmdndodpdqdrdsdtdudvdwdxdydzd
+eaebecedeefegeheiejekelemeneoepeqereseteuevewexeyeze
+fafbfcfdfeffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxfyfzf
+gagbgcgdgegfgghgigjgkglgmgngogpgqgrgsgtgugvgwgxgygzg
+hahbhchdhehfhghhihjhkhlhmhnhohphqhrhshthuhvhwhxhyhzh
+iaibicidieifigihiijikiliminioipiqirisitiuiviwixiyizi
+jajbjcjdjejfjgjhjijjkjljmjnjojpjqjrjsjtjujvjwjxjyjzj
+kakbkckdkekfkgkhkikjkklkmknkokpkqkrksktkukvkwkxkykzk
+lalblcldlelflglhliljlkllmlnlolplqlrlsltlulvlwlxlylzl
+mambmcmdmemfmgmhmimjmkmlmmnmompmqmrmsmtmumvmwmxmymzm
+nanbncndnenfngnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn
+oaobocodoeofogohoiojokolomonoopoqorosotouovowoxoyozo
+papbpcpdpepfpgphpipjpkplpmpnpoppqprpsptpupvpwpxpypzp
+qaqbqcqdqeqfqgqhqiqjqkqlqmqnqoqpqqrqsqtquqvqwqxqyqzq
+rarbrcrdrerfrgrhrirjrkrlrmrnrorprqrrsrtrurvrwrxryrzr
+sasbscsdsesfsgshsisjskslsmsnsospsqsrsstsusvswsxsyszs
+tatbtctdtetftgthtitjtktltmtntotptqtrtsttutvtwtxtytzt
+uaubucudueufuguhuiujukulumunuoupuqurusutuuvuwuxuyuzu
+vavbvcvdvevfvgvhvivjvkvlvmvnvovpvqvrvsvtvuvvwvxvyvzv
+wawbwcwdwewfwgwhwiwjwkwlwmwnwowpwqwrwswtwuwvwwxwywzw
+xaxbxcxdxexfxgxhxixjxkxlxmxnxoxpxqxrxsxtxuxvxwxxyxzx
+yaybycydyeyfygyhyiyjykylymynyoypyqyrysytyuyvywyxyyzy
+zazbzczdzezfzgzhzizjzkzlzmznzozpzqzrzsztzuzvzwzxzyzz
+
+AaAbAcAdAeAfAgAhAiAjAkAlAmAnAoApAqArAsAtAuAvAwAxAyAz
+BaBbBcBdBeBfBgBhBiBjBkBlBmBnBoBpBqBrBsBtBuBvBwBxByBz
+CaCbCcCdCeCfCgChCiCjCkClCmCnCoCpCqCrCsCtCuCvCwCxCyCz
+DaDbDcDdDeDfDgDhDiDjDkDlDmDnDoDpDqDrDsDtDuDvDwDxDyDz
+EaEbEcEdEeEfEgEhEiEjEkElEmEnEoEpEqErEsEtEuEvEwExEyEz
+FaFbFcFdFeFfFgFhFiFjFkFlFmFnFoFpFqFrFsFtFuFvFwFxFyFz
+GaGbGcGdGeGfGgGhGiGjGkGlGmGnGoGpGqGrGsGtGuGvGwGxGyGz
+HaHbHcHdHeHfHgHhHiHjHkHlHmHnHoHpHqHrHsHtHuHvHwHxHyHz
+IaIbIcIdIeIfIgIhIiIjIkIlImInIoIpIqIrIsItIuIvIwIxIyIz
+JaJbJcJdJeJfJgJhJiJjJkJlJmJnJoJpJqJrJsJtJuJvJwJxJyJz
+KaKbKcKdKeKfKgKhKiKjKkKlKmKnKoKpKqKrKsKtKuKvKwKxKyKz
+LaLbLcLdLeLfLgLhLiLjLkLlLmLnLoLpLqLrLsLtLuLvLwLxLyLz
+MaMbMcMdMeMfMgMhMiMjMkMlMmMnMoMpMqMrMsMtMuMvMwMxMyMz
+NaNbNcNdNeNfNgNhNiNjNkNlNmNnNoNpNqNrNsNtNuNvNwNxNyNz
+OaObOcOdOeOfOgOhOiOjOkOlOmOnOoOpOqOrOsOtOuOvOwOxOyOz
+PaPbPcPdPePfPgPhPiPjPkPlPmPnPoPpPqPrPsPtPuPvPwPxPyPz
+QaQbQcQdQeQfQgQhQiQjQkQlQmQnQoQpQqQrQsQtQuQvQwQxQyQz
+RaRbRcRdReRfRgRhRiRjRkRlRmRnRoRpRqRrRsRtRuRvRwRxRyRz
+SaSbScSdSeSfSgShSiSjSkSlSmSnSoSpSqSrSsStSuSvSwSxSySz
+TaTbTcTdTeTfTgThTiTjTkTlTmTnToTpTqTrTsTtTuTvTwTxTyTz
+UaUbUcUdUeUfUgUhUiUjUkUlUmUnUoUpUqUrUsUtUuUvUwUxUyUz
+VaVbVcVdVeVfVgVhViVjVkVlVmVnVoVpVqVrVsVtVuVvVwVxVyVz
+WaWbWcWdWeWfWgWhWiWjWkWlWmWnWoWpWqWrWsWtWuWvWwWxWyWz
+XaXbXcXdXeXfXgXhXiXjXkXlXmXnXoXpXqXrXsXtXuXvXwXxXyXz
+YaYbYcYdYeYfYgYhYiYjYkYlYmYnYoYpYqYrYsYtYuYvYwYxYyYz
+ZaZbZcZdZeZfZgZhZiZjZkZlZmZnZoZpZqZrZsZtZuZvZwZxZyZz
+
+AABACADAEAFAGAHAIAJAKALAMANAOAPAQARASATAUAVAWAXAYAZA
+BABBCBDBEBFBGBHBIBJBKBLBMBNBOBPBQBRBSBTBUBVBWBXBYBZB
+CACBCCDCECFCGCHCICJCKCLCMCNCOCPCQCRCSCTCUCVCWCXCYCZC
+DADBDCDDEDFDGDHDIDJDKDLDMDNDODPDQDRDSDTDUDVDWDXDYDZD
+EAEBECEDEEFEGEHEIEJEKELEMENEOEPEQERESETEUEVEWEXEYEZE
+FAFBFCFDFEFFGFHFIFJFKFLFMFNFOFPFQFRFSFTFUFVFWFXFYFZF
+GAGBGCGDGEGFGGHGIGJGKGLGMGNGOGPGQGRGSGTGUGVGWGXGYGZG
+HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH
+IAIBICIDIEIFIGIHIIJIKILIMINIOIPIQIRISITIUIVIWIXIYIZI
+JAJBJCJDJEJFJGJHJIJJKJLJMJNJOJPJQJRJSJTJUJVJWJXJYJZJ
+KAKBKCKDKEKFKGKHKIKJKKLKMKNKOKPKQKRKSKTKUKVKWKXKYKZK
+LALBLCLDLELFLGLHLILJLKLLMLNLOLPLQLRLSLTLULVLWLXLYLZL
+MAMBMCMDMEMFMGMHMIMJMKMLMMNMOMPMQMRMSMTMUMVMWMXMYMZM
+NANBNCNDNENFNGNHNINJNKNLNMNNONPNQNRNSNTNUNVNWNXNYNZN
+OAOBOCODOEOFOGOHOIOJOKOLOMONOOPOQOROSOTOUOVOWOXOYOZO
+PAPBPCPDPEPFPGPHPIPJPKPLPMPNPOPPQPRPSPTPUPVPWPXPYPZP
+QAQBQCQDQEQFQGQHQIQJQKQLQMQNQOQPQQRQSQTQUQVQWQXQYQZQ
+RARBRCRDRERFRGRHRIRJRKRLRMRNRORPRQRRSRTRURVRWRXRYRZR
+SASBSCSDSESFSGSHSISJSKSLSMSNSOSPSQSRSSTSUSVSWSXSYSZS
+TATBTCTDTETFTGTHTITJTKTLTMTNTOTPTQTRTSTTUTVTWTXTYTZT
+UAUBUCUDUEUFUGUHUIUJUKULUMUNUOUPUQURUSUTUUVUWUXUYUZU
+VAVBVCVDVEVFVGVHVIVJVKVLVMVNVOVPVQVRVSVTVUVVWVXVYVZV
+WAWBWCWDWEWFWGWHWIWJWKWLWMWNWOWPWQWRWSWTWUWVWWXWYWZW
+XAXBXCXDXEXFXGXHXIXJXKXLXMXNXOXPXQXRXSXTXUXVXWXXYXZX
+YAYBYCYDYEYFYGYHYIYJYKYLYMYNYOYPYQYRYSYTYUYVYWYXYYZY
+ZAZBZCZDZEZFZGZHZIZJZKZLZMZNZOZPZQZRZSZTZUZVZWZXZYZZ
+
+Aar Abo Act Adj Aer Aft Aga Ahe Aie Aji Ake Alm Amo Ano Aoa App Aqu Art Ass Att Aug Ave Awa Axe Aye Azo Bal Bbn Bcc Bdj Ber Bfd Bga Bhu Bie Bji Bkl Bli Bmo Bni Boa Bpi Bqu Brt Bss Btl But Bve Bwa Bxl Bye Bzo Cal Cbn Ccn Cdj Cer Cfi Cga Che Cie Cjn Ckl Cle Cmo Cnl Coa Cpl Cqu Crl Css Ctl Cul Cvl Cwl Cxl Cyi Czo Dal Dbn Dci Ddj Der Dfl Dga Dhr Die Dji Dkl Dli Dmo Dnu Don Dpi Dqu Dri Dsl Dtl Dul Dvl Dwl Dxl Dya Dzn Ear Ebe Ech Edw Een Efo Ega Ehr Eit Ejo Ekn Eld Emp Ens Eob Epa Equ Ero Est Eth Euc Eva Ewa Exe Eyo Eze Fal Fbo Fci Fdj Fer Ffu Fgn Fhi Fil Fjo Fkl Fli Fmi Fnl Fol Fpi Fqu Fra Fst Fto Ful Fvl Fwl Fxi Fyi Fzi Gal Gbo Gch Gdj Ger Gfl Ggl Ghi Gil Gjl Gke Gli Gmo Gnl Gol Gpi Gqu Gra Gst Gto Gut Gve Gwl Gxi Gyn Gzn Har Hbo Hct Hdj Her Hfl Hga Hhe Hie Hji Hke Hlm Hmo Hno Hon Hpl Hqu Hrt Hss Htt Hue Hve Hwa Hxe Hyu Hzi Ian Ibo Ict Idj Ier Ift Iga Ihe Iie Ijo Ike Ilm Imo Ino Ion Ipl Iqu Irt Iss Ita Iut Ive Iwa Ixe Iyo Izo Jap Jbo Jct Jdj Jer Jfn Jgu Jhe Jie Jjl Jkl Jlm Jmo Jno Jon Jpl Jqu Jrt Jss Jtt Jut Jve Jwa Jxe Jyn Jzt Kan Kbo Kci Kdj Ker Kfn Kga Khe Kie Kjl Kkn Klm Kmo Kno Kon Kpl Kqu Krt Kss Kti Kui Kve Kwa Kxe Kye Kzo Lam Lbo Lct Ldj Len Lft Lga Lhe Lie Lju Lke Llm Lmo Lno Lon Lpl Lqu Lrt Lss Ltt Luc Lve Lwa Lxe Lye Lzt Mar Mbu Mct Mdj Mer Mfl Mga Mhe Mie Mji Mke Mlf Mmi Mnu Mon Mpl Mqu Mrt Mss Mtt Mut Mvl Mwa Mxe Myu Mzi Nam Nbu Nct Ndj Nel Nfl Nga Nhi Nie Njn Nke Nlo Nmi Nnu Non Npr Nqu Nrt Nst Ntu Nul Nvd Nwa Nxe Nyi Nzu Oan Obu Oct Odj Oer Ofa Oga Ohe Oie Oja Oke Olf Omi Onu Oon Opl Oqu Ort Oss Ott Out Ovl Owa Oxe Oye Ozo Par Pbl Pct Pdj Per Pfe Pgs Phi Pie Pji Pki Pla Pml Pnu Pon Ppl Pqu Prt Psa Pts Pul Pvc Pwi Pxl Pyn Pzl Qal Qbo Qct Qdj Qer Qfi Qga Qhe Qie Qji Qke Qlm Qmo Qno Qoa Qpp Qqu Qrt Qss Qtt Qui Qve Qwa Qxe Qyo Qzo Rad Rbi Rct Rdj Ren Rfe Rgs Rha Ria Rji Rkl Rli Rms Rni Roa Rpi Rqu Rrt Rsi Rtd Rut Rvi Rwl Rxi Ryn Rzi Sar Sbo Sct Sdl Ser Sfo Sgi She Sie Sja Ski Slo Smi Sno Sol Spe Squ Srt Sst Stt Sut Sve Swa Sxe Syl Szo Tar Tba Tcm Tdi Ter Tfl Tgi The Tie Tji Tke Tlm Tmo Tno Tol Tpi Tqu Trt Tsi Tti Tut Tvl Twl Txl Tyl Tzo Ual Ubi Uct Udj Uer Ufc Uga Uhi Uie Uji Uke Ulm Umo Uno Uol Upp Uqu Urt Uss Utl Uui Uvl Uwl Uxe Uye Uzo Val Vbo Vct Vdj Ver Vft Vga Vhe Vie Vjl Vki Vlm Vmo Vno Vol Vpi Vqu Vrl Vsi Vtt Vut Vvl Vwl Vxl Vyl Vzi Wal Wbo Wcl Wdj Wer Wfi Wga Whe Wie Wjl Wke Wlm Wmo Wno Wol Wpi Wqu Wrl Wsi Wtt Wut Wvl Wwl Wxl Wya Wzl Xal Xbo Xce Xdj Xer Xft Xga Xhe Xie Xjl Xki Xlm Xmo Xno Xol Xpi Xqu Xrl Xsi Xtt Xut Xvl Xwl Xxl Xye Xzi Yal Ybo Yci Ydj Yer Yfl Yga Yhe Yie Yjo Ykl Yli Ymo Yno Yol Ypi Yqu Yrl Ysi Ytt Yut Yvl Ywl Yxl Yyl Yzi Zan Zbr Zco Zdj Zer Zfl Zga Zhe Zie Zji Zke Zlm Zmo Zno Zol Zpi Zqu Zro Zsn Zti Zut Zvl Zwl Zxl Zyl Zzl
+
+-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-
+–a–b–c–d–e–f–g–h–i–j–k–l–m–n–o–p–q–r–s–t–u–v–w–x–y–z–
+—a—b—c—d—e—f—g—h—i—j—k—l—m—n—o—p—q—r—s—t—u—v—w—x—y—z—
+
+-A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-V-W-X-Y-Z-
+–A–B–C–D–E–F–G–H–I–J–K–L–M–N–O–P–Q–R–S–T–U–V–W–X–Y–Z–
+—A—B—C—D—E—F—G—H—I—J—K—L—M—N—O—P—Q—R—S—T—U—V—W—X—Y—Z—
+
+.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.z.
+,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,
+
+.A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.W.X.Y.Z.
+,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,
+
+a; b; c; d; e; f; g; h; i; j; k; l; m; n; o; p; q; r; s; t; u; v; w; x; y; z;
+a: b: c: d: e: f: g: h: i: j: k: l: m: n: o: p: q: r: s: t: u: v: w: x: y: z:
+
+A; B; C; D; E; F; G; H; I; J; K; L; M; N; O; P; Q; R; S; T; U; V; W; X; Y; Z;
+A: B: C: D: E: F: G: H: I: J: K: L: M: N: O: P: Q: R: S: T: U: V: W: X: Y: Z:
+
+//a//b//c//d//e//f//g//h//i//j//k//l//m//n//o//p//q//r//s//t//u//v//w//x//y//z//
+//A//B//C//D//E//F//G//H//I//J//K//L//M//N//O//P//Q//R//S//T//U//V//W//X//Y//Z//
+
+/backslash/backslash a/backslash/backslash b/backslash/backslash c/backslash/backslash d/backslash/backslash e/backslash/backslash f/backslash/backslash g/backslash/backslash h/backslash/backslash i/backslash/backslash j/backslash/backslash k/backslash/backslash l/backslash/backslash m/backslash/backslash n/backslash/backslash o/backslash/backslash p/backslash/backslash q/backslash/backslash r/backslash/backslash s/backslash/backslash t/backslash/backslash u/backslash/backslash v/backslash/backslash w/backslash/backslash x/backslash/backslash y/backslash/backslash z/backslash/backslash 
+/backslash/backslash A/backslash/backslash B/backslash/backslash C/backslash/backslash D/backslash/backslash E/backslash/backslash F/backslash/backslash G/backslash/backslash H/backslash/backslash I/backslash/backslash J/backslash/backslash K/backslash/backslash L/backslash/backslash M/backslash/backslash N/backslash/backslash O/backslash/backslash P/backslash/backslash Q/backslash/backslash R/backslash/backslash S/backslash/backslash T/backslash/backslash U/backslash/backslash V/backslash/backslash W/backslash/backslash X/backslash/backslash Y/backslash/backslash Z/backslash/backslash 
+
+a? b? c? d? e? f? g? h? i? j? k? l? m? n? o? p? q? r? s? t? u? v? w? x? y? z?
+A? B? C? D? E? F? G? H? I? J? K? L? M? N? O? P? Q? R? S? T? U? V? W? X? Y? Z?
+
+a! b! c! d! e! f! g! h! i! j! k! l! m! n! o! p! q! r! s! t! u! v! w! x! y! z!
+A! B! C! D! E! F! G! H! I! J! K! L! M! N! O! P! Q! R! S! T! U! V! W! X! Y! Z!
+
+“a” “b” “c” “d” “e” “f” “g” “h” “i” “j” “k” “l” “m” “n” “o” “p” “q” “r” “s” “t” “u” “v” “w” “x” “y” “z”
+“A” “B” “C” “D” “E” “F” “G” “H” “I” “J” “K” “L” “M” “N” “O” “P” “Q” “R” “S” “T” “U” “V” “W” “X” “Y” “Z”
+
+‘a’ ‘b’ ‘c’ ‘d’ ‘e’ ‘f’ ‘g’ ‘h’ ‘i’ ‘j’ ‘k’ ‘l’ ‘m’ ‘n’ ‘o’ ‘p’ ‘q’ ‘r’ ‘s’ ‘t’ ‘u’ ‘v’ ‘w’ ‘x’ ‘y’ ‘z’
+‘A’ ‘B’ ‘C’ ‘D’ ‘E’ ‘F’ ‘G’ ‘H’ ‘I’ ‘J’ ‘K’ ‘L’ ‘M’ ‘N’ ‘O’ ‘P’ ‘Q’ ‘R’ ‘S’ ‘T’ ‘U’ ‘V’ ‘W’ ‘X’ ‘Y’ ‘Z’
+
+’a’b’c’d’e’f’g’h’i’j’k’l’m’n’o’p’q’r’s’t’u’v’w’x’y’z’
+’A’B’C’D’E’F’G’H’I’J’K’L’M’N’O’P’Q’R’S’T’U’V’W’X’Y’Z’
+
+(a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) (p) (q) (r) (s) (t) (u) (v) (w) (x) (y) (z)
+(A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K) (L) (M) (N) (O) (P) (Q) (R) (S) (T) (U) (V) (W) (X) (Y) (Z)
+{a} {b} {c} {d} {e} {f} {g} {h} {i} {j} {k} {l} {m} {n} {o} {p} {q} {r} {s} {t} {u} {v} {w} {x} {y} {z}
+{A} {B} {C} {D} {E} {F} {G} {H} {I} {J} {K} {L} {M} {N} {O} {P} {Q} {R} {S} {T} {U} {V} {W} {X} {Y} {Z}
+[a] [b] [c] [d] [e] [f] [g] [h] [i] [j] [k] [l] [m] [n] [o] [p] [q] [r] [s] [t] [u] [v] [w] [x] [y] [z]
+[A] [B] [C] [D] [E] [F] [G] [H] [I] [J] [K] [L] [M] [N] [O] [P] [Q] [R] [S] [T] [U] [V] [W] [X] [Y] [Z]
+
+
+010203040506070809000
+111213141516171819101
+212223242526272829202
+313233343536373839303
+414243444546474849404
+515253545556575859505
+616263646566676869606
+717273747576777879707
+818283848586878889808
+919293949596979899909
+
+00100200300400500600700800900000
+11111211311411511611711811911011
+22122222322422522622722822922022
+33133233333433533633733833933033
+44144244344444544644744844944044
+55155255355455555655755855955055
+66166266366466566666766866966066
+77177277377477577677777877977077
+88188288388488588688788888988088
+99199299399499599699799899999099
+
+0001000200030004000500060007000800090000000
+1111111211131114111511161117111811191110111
+2221222222232224222522262227222822292220222
+3331333233333334333533363337333833393330333
+4441444244434444444544464447444844494440444
+5551555255535554555555565557555855595550555
+6661666266636664666566666667666866696660666
+7771777277737774777577767777777877797770777
+8881888288838884888588868887888888898880888
+9991999299939994999599969997999899999990999
+
+.1.2.3.4.5.6.7.8.9.0.
+,1,2,3,4,5,6,7,8,9,0,
+
+-1-2-3-4-5-6-7-8-9-0-
+–1–2–3–4–5–6–7–8–9–0–
+
+$12 $23 $34 $45 $56 $67 $78 $89 $90 $01
+€12 €23 €34 €45 €56 €67 €78 €89 €90 €01
+£12 £23 £34 £45 £56 £67 £78 £89 £90 £01
+¥12 ¥23 ¥34 ¥45 ¥56 ¥67 ¥78 ¥89 ¥90 ¥01
+12 23 34 45 56 67 78 89 90 01
+12¢ 23¢ 34¢ 45¢ 56¢ 67¢ 78¢ 89¢ 90¢ 01¢
+
+WOW.” ,’ ,” .’ ?” ?’ !” !’"
 );
 customParameters = (
 {
@@ -4198,7 +4378,7 @@ color = 4;
 glyphname = K;
 kernLeft = H;
 kernRight = K;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-28 12:14:23 +0000";
 layers = (
 {
 anchors = (
@@ -7452,7 +7632,7 @@ color = 4;
 glyphname = T;
 kernLeft = T;
 kernRight = T;
-lastChange = "2026-08-20 14:33:08 +0000";
+lastChange = "2026-10-28 12:14:56 +0000";
 layers = (
 {
 anchors = (
@@ -7670,7 +7850,7 @@ color = 4;
 glyphname = U;
 kernLeft = U;
 kernRight = U;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-28 12:15:08 +0000";
 layers = (
 {
 anchors = (
@@ -8515,7 +8695,7 @@ color = 4;
 glyphname = V;
 kernLeft = V;
 kernRight = V;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-28 12:15:11 +0000";
 layers = (
 {
 anchors = (
@@ -8587,7 +8767,7 @@ color = 4;
 glyphname = W;
 kernLeft = W;
 kernRight = V;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-28 12:16:52 +0000";
 layers = (
 {
 anchors = (
@@ -10841,7 +11021,7 @@ color = 4;
 glyphname = b;
 kernLeft = h;
 kernRight = o;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-28 12:13:40 +0000";
 layers = (
 {
 anchors = (
@@ -10959,7 +11139,7 @@ color = 4;
 glyphname = c;
 kernLeft = o;
 kernRight = c;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-28 11:37:38 +0000";
 layers = (
 {
 anchors = (
@@ -12691,7 +12871,7 @@ color = 4;
 glyphname = f;
 kernLeft = f;
 kernRight = a;
-lastChange = "2026-08-20 14:33:25 +0000";
+lastChange = "2026-10-28 12:13:24 +0000";
 layers = (
 {
 anchors = (
@@ -14266,8 +14446,8 @@ unicode = 567;
 color = 4;
 glyphname = k;
 kernLeft = h;
-kernRight = o;
-lastChange = "2026-08-20 14:32:04 +0000";
+kernRight = k;
+lastChange = "2026-10-28 12:14:46 +0000";
 layers = (
 {
 anchors = (
@@ -14895,7 +15075,7 @@ color = 4;
 glyphname = n;
 kernLeft = n;
 kernRight = n;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-28 11:36:58 +0000";
 layers = (
 {
 anchors = (
@@ -15301,7 +15481,7 @@ color = 4;
 glyphname = o;
 kernLeft = o;
 kernRight = o;
-lastChange = "2026-10-03 15:45:17 +0000";
+lastChange = "2026-10-28 11:37:00 +0000";
 layers = (
 {
 anchors = (
@@ -16312,7 +16492,7 @@ color = 4;
 glyphname = p;
 kernLeft = p;
 kernRight = o;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-28 11:37:28 +0000";
 layers = (
 {
 anchors = (
@@ -16516,7 +16696,7 @@ color = 4;
 glyphname = q;
 kernLeft = o;
 kernRight = q;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-28 12:14:10 +0000";
 layers = (
 {
 anchors = (
@@ -18683,7 +18863,7 @@ color = 4;
 glyphname = w;
 kernLeft = v;
 kernRight = v;
-lastChange = "2026-08-13 10:34:18 +0000";
+lastChange = "2026-10-28 12:13:38 +0000";
 layers = (
 {
 anchors = (
@@ -19048,7 +19228,7 @@ color = 4;
 glyphname = x;
 kernLeft = x;
 kernRight = x;
-lastChange = "2026-08-20 14:32:04 +0000";
+lastChange = "2026-10-28 12:13:30 +0000";
 layers = (
 {
 anchors = (
@@ -27264,9 +27444,17 @@ u = -130;
 "@MMK_L_E" = {
 "@MMK_R_v" = -135;
 };
+"@MMK_L_K" = {
+"@MMK_R_o" = -60;
+};
+"@MMK_L_U" = {
+"@MMK_R_t" = -60;
+"@MMK_R_z" = -20;
+};
 "@MMK_L_V" = {
 "@MMK_R_A" = -20;
-"@MMK_R_o" = -250;
+"@MMK_R_o" = -210;
+"@MMK_R_z" = -140;
 A = -340;
 C = -80;
 G = -90;
@@ -27288,8 +27476,11 @@ y = -130;
 };
 "@MMK_L_a" = {
 "@MMK_R_a" = -130;
+"@MMK_R_h" = -40;
 "@MMK_R_n" = -75;
 "@MMK_R_o" = -140;
+"@MMK_R_p" = -80;
+"@MMK_R_x" = -40;
 d = -100;
 e = -90;
 f = -220;
@@ -27304,6 +27495,11 @@ s = -120;
 t = -90;
 u = -50;
 };
+"@MMK_L_c" = {
+"@MMK_R_h" = -35;
+"@MMK_R_j" = -100;
+"@MMK_R_s" = -40;
+};
 "@MMK_L_f" = {
 "@MMK_R_o" = -100;
 c = -50;
@@ -27313,10 +27509,20 @@ f = -200;
 g = -110;
 t = -85;
 };
+"@MMK_L_k" = {
+"@MMK_R_O" = -40;
+"@MMK_R_a" = -40;
+"@MMK_R_g" = -100;
+"@MMK_R_o" = -100;
+};
+"@MMK_L_n" = {
+"@MMK_R_f" = -40;
+};
 "@MMK_L_o" = {
-"@MMK_R_o" = -90;
+"@MMK_R_f" = -20;
+"@MMK_R_o" = 0;
 "@MMK_R_v" = -90;
-"@MMK_R_x" = -110;
+"@MMK_R_x" = -50;
 a = 0;
 d = 0;
 e = -10;
@@ -27331,7 +27537,12 @@ u = -40;
 y = -40;
 z = -70;
 };
+"@MMK_L_q" = {
+"@MMK_R_f" = -80;
+"@MMK_R_v" = -20;
+};
 "@MMK_L_v" = {
+"@MMK_R_h" = -40;
 "@MMK_R_o" = -116;
 a = -120;
 d = -70;
@@ -27359,7 +27570,7 @@ s = -140;
 t = -110;
 };
 "@MMK_L_x" = {
-"@MMK_R_o" = -130;
+"@MMK_R_o" = -50;
 "@MMK_R_v" = -30;
 e = -100;
 i = -30;
@@ -27543,7 +27754,7 @@ S = -20;
 space = 0;
 };
 T = {
-"@MMK_R_o" = -220;
+"@MMK_R_o" = -180;
 "@MMK_R_v" = -120;
 A = -240;
 C = -80;
